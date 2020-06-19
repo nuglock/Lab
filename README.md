@@ -1,5 +1,5 @@
 # Lab
  Laboratórios virtuais 
- em teste
+
  
- [link](https://nuglock.github.io/Lab/PerdadeCarga)
+ [link](https://nuglock.github.io/Lab/PerdadeCarga "Perda de Carga Distribuída")
