@@ -2,4 +2,4 @@
  Laboratórios virtuais 
  em teste
  
- [link](https://nuglock.github.io/Lab/)
+ [link](https://nuglock.github.io/Lab/PerdadeCarga)
